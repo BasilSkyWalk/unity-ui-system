@@ -1,0 +1,18 @@
+{
+  "name": "com.goc.ui-system",
+  "version": "1.0.0",
+  "displayName": "UI System Core",
+  "description": "Reusable, config-driven UI management system with screen lifecycle, popup queues, and transition animations.",
+  "unity": "2021.3",
+  "author": {
+    "name": "BasilSkyWalk",
+    "url": "https://github.com/BasilSkyWalk"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "screens",
+    "popups",
+    "transitions"
+  ]
+}
